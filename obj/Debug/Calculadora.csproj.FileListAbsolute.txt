@@ -1,0 +1,43 @@
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Resources\imgpi_5.png
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Resources\imgpi_5.png
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\Debug\Calculadora.application
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.TrustInfo.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\Debug\Calculadora.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\bin\Debug\Resources\imgpi_5.png
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\bin\Debug\Calculadora.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.TrustInfo.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\Calculadora de Consumo\Calculadora\Calculadora\obj\Debug\Calculadora.application

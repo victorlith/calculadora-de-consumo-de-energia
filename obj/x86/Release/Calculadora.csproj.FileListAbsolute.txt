@@ -1,0 +1,32 @@
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\x86\Release\Resources\imgpi_5.png
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\x86\Release\Calculadora.exe.config
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\x86\Release\Calculadora.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\x86\Release\Calculadora.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.Form1.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.Properties.Resources.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.csproj.GenerateResource.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\x86\Release\Calculadora.exe.manifest
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\bin\x86\Release\Calculadora.application
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.csprojAssemblyReference.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.TrustInfo.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.exe.manifest
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projeto 2\Calculadora\Calculadora\obj\x86\Release\Calculadora.application
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\bin\x86\Release\Resources\imgpi_5.png
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\bin\x86\Release\Calculadora.exe.config
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\bin\x86\Release\Calculadora.exe.manifest
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\bin\x86\Release\Calculadora.application
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\bin\x86\Release\Calculadora.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\bin\x86\Release\Calculadora.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.csprojAssemblyReference.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.Form1.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.Properties.Resources.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.csproj.GenerateResource.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.TrustInfo.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.exe.manifest
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.application
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Calculadora de Consumo\Calculadora\Calculadora\obj\x86\Release\Calculadora.pdb
